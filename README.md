@@ -45,17 +45,15 @@ A comprehensive **Image Processing Toolkit** developed in Google Colab, providin
 
 ## Repository Structure
 
-
-
+```text
 ImageProcessingToolkit/
-├── Image_Processing_Toolkit.ipynb # Main Colab notebook
-├── results/ # Sample results and processed images
-│ ├── grayscale.png
-│ ├── histograms.png
-│ └── ... (other output images)
-├── README.md # This file
-
-
+├── Image_Processing_Toolkit.ipynb   # Main Colab notebook
+├── results/                         # Sample results and processed images
+│   ├── grayscale.png
+│   ├── histograms.png
+│   └── ... (other output images)
+├── README.md                         # This file
+```
 ---
 
 ## How to Use
